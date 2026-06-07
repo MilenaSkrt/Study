@@ -36,7 +36,7 @@ docker compose up --build
 
 Адреса после запуска:
 
-- Frontend: http://localhost:5173
+- Frontend: http://localhost:3000
 - Backend API: http://localhost:8000
 - Swagger UI: http://localhost:8000/docs
 
