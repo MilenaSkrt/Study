@@ -97,3 +97,6 @@ cd frontend
 npm install
 npm run dev
 ```
+
+Запуск: docker compose up -d --build 
+
